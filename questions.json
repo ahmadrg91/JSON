@@ -1,54 +1,29 @@
 {
   "questions": [
     {
-      "Question": "What is the capital of France?",
-      "Options": ["London", "Paris", "Berlin", "Rome"],
-      "Correct": "Paris"
+      "Question": "What is the correct past tense of 'eat'?",
+      "Options": ["Eaten", "Ate", "Eat", "Eating"],
+      "Correct": "Ate"
     },
     {
-      "Question": "Who painted the Mona Lisa?",
-      "Options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
-      "Correct": "Leonardo da Vinci"
+      "Question": "Which of the following is a coordinating conjunction?",
+      "Options": ["And", "But", "Is", "Because"],
+      "Correct": "And"
     },
     {
-      "Question": "Which planet is known as the Red Planet?",
-      "Options": ["Mars", "Venus", "Mercury", "Jupiter"],
-      "Correct": "Mars"
+      "Question": "What is the superlative form of the adjective 'good'?",
+      "Options": ["Better", "Best", "Goodest", "Gooder"],
+      "Correct": "Best"
     },
     {
-      "Question": "Who wrote 'Romeo and Juliet'?",
-      "Options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
-      "Correct": "William Shakespeare"
+      "Question": "In which sentence is the verb in the present perfect tense?",
+      "Options": ["He will finish his work soon.", "She has written a book.", "They are singing a song.", "I am eating lunch."],
+      "Correct": "She has written a book."
     },
     {
-      "Question": "What is the largest mammal in the world?",
-      "Options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
-      "Correct": "Blue Whale"
-    },
-    {
-      "Question": "Which country is famous for its tulips?",
-      "Options": ["Netherlands", "Italy", "Japan", "Canada"],
-      "Correct": "Netherlands"
-    },
-    {
-      "Question": "Who is known as the 'Father of Computer Science'?",
-      "Options": ["Alan Turing", "Bill Gates", "Steve Jobs", "Tim Berners-Lee"],
-      "Correct": "Alan Turing"
-    },
-    {
-      "Question": "What is the chemical symbol for gold?",
-      "Options": ["Ag", "Au", "Fe", "Cu"],
-      "Correct": "Au"
-    },
-    {
-      "Question": "Which ocean is the largest?",
-      "Options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
-      "Correct": "Pacific Ocean"
-    },
-    {
-      "Question": "Who discovered penicillin?",
-      "Options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Isaac Newton"],
-      "Correct": "Alexander Fleming"
+      "Question": "What is the correct plural form of 'child'?",
+      "Options": ["Childs", "Children", "Childes", "Childen"],
+      "Correct": "Children"
     }
   ]
 }
